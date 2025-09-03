@@ -3,8 +3,17 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/exception" />
+        <option name="gradleJvm" value="ms-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/exception" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/item-service" />
-        <option name="gradleJvm" value="17" />
+        <option name="gradleJvm" value="ms-17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/item-service" />
@@ -13,7 +22,7 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/servlet" />
-        <option name="gradleJvm" value="17" />
+        <option name="gradleJvm" value="ms-17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/servlet" />
@@ -22,7 +31,7 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/springmvc" />
-        <option name="gradleJvm" value="17" />
+        <option name="gradleJvm" value="ms-17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/springmvc" />
