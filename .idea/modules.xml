@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/exception.main.iml" filepath="$PROJECT_DIR$/.idea/modules/exception.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-mvc-basic.iml" filepath="$PROJECT_DIR$/.idea/spring-mvc-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/typeconverter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/typeconverter.main.iml" />
     </modules>
   </component>
 </project>

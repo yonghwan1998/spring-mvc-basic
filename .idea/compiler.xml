@@ -29,6 +29,9 @@
       <module name="typeconverter" options="-parameters" />
       <module name="typeconverter.main" options="-parameters" />
       <module name="typeconverter.test" options="-parameters" />
+      <module name="upload" options="-parameters" />
+      <module name="upload.main" options="-parameters" />
+      <module name="upload.test" options="-parameters" />
     </option>
   </component>
 </project>
