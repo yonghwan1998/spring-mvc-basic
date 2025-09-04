@@ -2,7 +2,6 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-      <profile default="true" name="Default" enabled="true" />
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
@@ -26,6 +25,9 @@
       <module name="springmvc" options="-parameters" />
       <module name="springmvc.main" options="-parameters" />
       <module name="springmvc.test" options="-parameters" />
+      <module name="typeconverter" options="-parameters" />
+      <module name="typeconverter.main" options="-parameters" />
+      <module name="typeconverter.test" options="-parameters" />
     </option>
   </component>
 </project>
